@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 2dfdb5f5dc5a1c24d9e79a465a2a7527
+guid: 533e09a1413989f499d0d7082ae617fd
 ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable:
@@ -29,7 +29,7 @@ ModelImporter:
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
     importConstraints: 0
-    animationCompression: 3
+    animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
@@ -100,7 +100,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 1
+  avatarSetup: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
