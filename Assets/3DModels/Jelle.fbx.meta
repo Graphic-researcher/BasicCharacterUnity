@@ -4,9 +4,6 @@ ModelImporter:
   serializedVersion: 20101
   internalIDToNameTable:
   - first:
-      74: 4036086486285380922
-    second: metarig|Camera.001Action
-  - first:
       74: -887982601649841707
     second: metarig|metarigAction
   externalObjects: {}
